@@ -4,6 +4,7 @@
 <p>Przeważnie aplikacje i gry są w :</p>
 <p>-Java</p>
 <p>-VB.NET</p>
+<p>-C++</p>
 <p>&nbsp;</p>
 <h2 style="text-align: center;"><strong>☺️☺️☺️</strong></h2>
 </html>
